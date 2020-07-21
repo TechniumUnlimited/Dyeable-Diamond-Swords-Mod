@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dyeablediamondswords:items/gray_diamond_sword"
+  }
+}
