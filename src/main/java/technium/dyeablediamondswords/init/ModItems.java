@@ -8,7 +8,7 @@ import technium.dyeablediamondswords.DyeableDiamondSwords;
 @ObjectHolder(DyeableDiamondSwords.MODID)
 public class ModItems {
 
-    public static final Item DARK_PURPLE_DIAMOND_SWORD = null;
+    public static final Item PINK_DIAMOND_SWORD = null;
     public static final Item DEEP_BLUE_DIAMOND_SWORD = null;
     public static final Item DEEP_PURPLE_DIAMOND_SWORD = null;
     public static final Item FIRE_RED_DIAMOND_SWORD = null;

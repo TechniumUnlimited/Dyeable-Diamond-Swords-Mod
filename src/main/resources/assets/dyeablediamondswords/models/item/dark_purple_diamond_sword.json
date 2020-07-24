@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "dyeablediamondswords:items/dark_purple_diamond_sword"
-  }
-}

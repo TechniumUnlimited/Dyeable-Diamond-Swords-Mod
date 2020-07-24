@@ -17,7 +17,7 @@ public class ModelRegistrationHandler {
 
     @SubscribeEvent
     public static void registerModels(ModelRegistryEvent event) {
-        registerModel(ModItems.DARK_PURPLE_DIAMOND_SWORD, 0);
+        registerModel(ModItems.PINK_DIAMOND_SWORD, 0);
         registerModel(ModItems.DEEP_BLUE_DIAMOND_SWORD, 0);
         registerModel(ModItems.DEEP_PURPLE_DIAMOND_SWORD, 0);
         registerModel(ModItems.FIRE_RED_DIAMOND_SWORD, 0);

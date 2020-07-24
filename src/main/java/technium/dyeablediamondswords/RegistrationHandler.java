@@ -13,7 +13,7 @@ public class RegistrationHandler {
     @SubscribeEvent
     public static void registerItems(Register<Item> event) {
         final Item[] items = {
-                new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "dark_purple_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "dark_purple_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
+                new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "pink_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "pink_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
                 new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "deep_blue_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "deep_blue_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
                 new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "deep_purple_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "deep_purple_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
                 new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "fire_red_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "fire_red_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
