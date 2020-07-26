@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:magenta_dye"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  ],
+  "result": {
+    "item": "dyeablediamondswords:fire_red_diamond_sword"
+  }
+}

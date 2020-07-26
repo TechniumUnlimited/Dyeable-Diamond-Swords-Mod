@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:pink_dye"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  ],
+  "result": {
+    "item": "dyeablediamondswords:pink_diamond_sword"
+  }
+}

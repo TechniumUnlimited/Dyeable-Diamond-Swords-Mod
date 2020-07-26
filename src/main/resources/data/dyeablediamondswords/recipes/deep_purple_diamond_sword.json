@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_dye"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "item": "minecraft:diamond_sword"
+    }
+  ],
+  "result": {
+    "item": "dyeablediamondswords:deep_purple_diamond_sword"
+  }
+}
