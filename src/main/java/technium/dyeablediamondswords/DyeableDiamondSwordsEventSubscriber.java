@@ -26,7 +26,10 @@ public final class DyeableDiamondSwordsEventSubscriber {
                 setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "yellow_diamond_sword"),
                 setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "gray_diamond_sword"),
                 setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "black_diamond_sword"),
-                setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "white_diamond_sword")
+                setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "white_diamond_sword"),
+                setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "brown_diamond_sword"),
+                setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "lime_green_diamond_sword"),
+                setup(new SwordItem(ItemTier.DIAMOND, 3, -2.4F, new Item.Properties().group(DyeableDiamondSwordsTab.MOD_ITEM_GROUP)), "green_diamond_sword")
         );
     }
 
