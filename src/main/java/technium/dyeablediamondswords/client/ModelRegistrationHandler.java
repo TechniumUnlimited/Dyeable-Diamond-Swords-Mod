@@ -30,6 +30,9 @@ public class ModelRegistrationHandler {
         registerModel(ModItems.GRAY_DIAMOND_SWORD, 0);
         registerModel(ModItems.BLACK_DIAMOND_SWORD, 0);
         registerModel(ModItems.WHITE_DIAMOND_SWORD, 0);
+        registerModel(ModItems.BROWN_DIAMOND_SWORD, 0);
+        registerModel(ModItems.LIME_GREEN_DIAMOND_SWORD, 0);
+        registerModel(ModItems.GREEN_DIAMOND_SWORD, 0);
     }
 
     private static void registerModel(Item item, int meta) {

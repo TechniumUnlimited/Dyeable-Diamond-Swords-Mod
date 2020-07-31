@@ -21,5 +21,8 @@ public class ModItems {
     public static final Item GRAY_DIAMOND_SWORD = null;
     public static final Item BLACK_DIAMOND_SWORD = null;
     public static final Item WHITE_DIAMOND_SWORD = null;
+    public static final Item BROWN_DIAMOND_SWORD = null;
+    public static final Item LIME_GREEN_DIAMOND_SWORD = null;
+    public static final Item GREEN_DIAMOND_SWORD = null;
 
 }

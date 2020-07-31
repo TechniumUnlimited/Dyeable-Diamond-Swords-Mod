@@ -25,7 +25,10 @@ public class RegistrationHandler {
                 new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "yellow_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "yellow_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
                 new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "gray_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "gray_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
                 new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "black_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "black_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
-                new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "white_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "white_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB)
+                new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "white_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "white_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
+                new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "brown_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "brown_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
+                new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "lime_green_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "lime_green_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB),
+                new ItemSword(Item.ToolMaterial.DIAMOND).setRegistryName(DyeableDiamondSwords.MODID, "green_diamond_sword").setTranslationKey(DyeableDiamondSwords.MODID + "." + "green_diamond_sword").setCreativeTab(DyeableDiamondSwords.DYEABLE_DIAMOND_SWORDS_TAB)
         };
 
         event.getRegistry().registerAll(items);

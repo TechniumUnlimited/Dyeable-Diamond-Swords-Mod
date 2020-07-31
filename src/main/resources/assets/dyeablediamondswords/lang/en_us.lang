@@ -11,5 +11,8 @@ item.dyeablediamondswords.yellow_diamond_sword.name=Yellow Diamond Sword
 item.dyeablediamondswords.gray_diamond_sword.name=Gray Diamond Sword
 item.dyeablediamondswords.black_diamond_sword.name=Black Diamond Sword
 item.dyeablediamondswords.white_diamond_sword.name=White Diamond Sword
+item.dyeablediamondswords.brown_diamond_sword.name=Brown Diamond Sword
+item.dyeablediamondswords.lime_green_diamond_sword.name=Lime Green Diamond Sword
+item.dyeablediamondswords.green_diamond_sword.name=Green Diamond Sword
 #Creative Tab
 itemGroup.dyeablediamondswords=Dyeable Diamond Swords
